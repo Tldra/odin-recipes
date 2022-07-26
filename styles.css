@@ -4,6 +4,10 @@ h1 {
     text-align: center;
 }
 
+ul {
+    text-align: center;
+}
+
 img {
     margin-left: auto;
     margin-right: auto;
@@ -18,6 +22,6 @@ img {
     font-size: 30px;
 }
 
-a#kabobs {
+gita#kabobs {
     background-color: blueviolet;
 }
