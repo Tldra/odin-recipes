@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#lasagna,
+#shoyu,
+#kabobs {
+    color: aqua;
+    background-color: black;
+    font-size: 30px;
+}
+
+a#kabobs {
+    background-color: blueviolet;
+}
